@@ -1,6 +1,6 @@
 Challenge | Conversor de Moneda |  Formación Java Orientado a Objetos
 
-<h1 align="center">:currency_exchange: Conversor de Moneda ☕</h1>
+<h1 align="center">:currency_exchange: Conversor de Moneda  y Temperatura ☕</h1>
 
 Este es un proyecto simple que ejecuta diferentes conversores programados mediante lenguaje Java.
 
